@@ -1,2 +1,5 @@
-project: true
-
+project:
+  review_criteria:
+    - first criterion
+    - second thing to do
+    - third
